@@ -15,7 +15,7 @@ module.exports = Object.freeze({
   API_BASE: '',
 
   // ---- Accounts (Firebase Authentication) ------------------------------------------------------
-  FIREBASE_API_KEY: '',
+  FIREBASE_API_KEY: 'AIzaSyCqXVjLZit-1ALCc9rgsroCwS6DIXYJLkU',
   // Google sign-in: an OAuth client of type "Desktop app" from Google Cloud Console.
   GOOGLE_CLIENT_ID: '',
   GOOGLE_CLIENT_SECRET: '',
